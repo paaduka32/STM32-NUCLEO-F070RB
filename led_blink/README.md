@@ -1,4 +1,5 @@
 ## LED BLINK:
+Bling the inbuilt led every half a second.
 
 # CUBEMX configurations:
 Set PA5(built in green LED) to output mode.
